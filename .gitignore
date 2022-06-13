@@ -1,3 +1,15 @@
+# As per project, composing "FuNcTiOnS"
+# these will ignore files without extensions
+
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+
+
 dist
 dist-*
 cabal-dev
